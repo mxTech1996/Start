@@ -15,7 +15,6 @@ const Footer = () => {
         window.open(path, '_blank');
       }}
       visaImage='/images/visaMaster.png'
-      masterImage='/images/openpay.jpg'
     />
   );
 };

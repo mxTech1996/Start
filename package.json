@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "axios": "^1.6.8",
-    "ecommerce-mxtech": "^0.0.60",
+    "ecommerce-mxtech": "^0.0.77",
+    "framer-motion": "^12.12.1",
     "fs": "^0.0.1-security",
     "inquirer": "^9.2.23",
     "lodash": "^4.17.21",
@@ -24,6 +25,7 @@
     "tailwind-merge": "^2.2.1"
   },
   "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.1.0",
